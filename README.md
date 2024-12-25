@@ -28,3 +28,20 @@ CalBurn is a simple and dynamic web application that predicts the number of calo
 
 4. 🖥️ The app displays the calories burned along with an explanation of the parameters used.
 
+📂 Project Files
+    -app.py: Main Streamlit app file.
+    -model.pkl: Pre-trained machine learning model for prediction.
+    -x_train.csv: Training data used for building the model.
+🖥️ Technologies Used
+    -Streamlit: For building the web interface.
+    -Python: Backend development and machine learning.
+    -NumPy & Pandas: For data manipulation and handling.
+    -Pickle: For model serialization.
+
+📸 Screenshots
+![Screenshot (119)](https://github.com/user-attachments/assets/ca2c2073-5272-4296-b18e-e4c01d006f91)
+
+🙌 Contributions
+Feel free to fork this repository and make improvements. Contributions are welcome! 🤝
+
+Developed with ❤️ by Vedant Shimpi.
