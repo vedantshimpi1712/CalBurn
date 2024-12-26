@@ -18,11 +18,7 @@ CalBurn is a simple and dynamic web application that predicts the number of calo
    - Heart Rate: Average heart rate during activity in bpm
    - Body Temperature: Body temperature during activity in °C
    
-2. The app uses the following formula to estimate the calories burned:
-   
-   Calories Burned = f(\text{Gender, Age, Height, Weight, Duration, Heart Rate, Body Temperature})
-   
-   The prediction is based on a pre-trained machine learning model. 📉
+2. The prediction is based on a pre-trained machine learning model. 📉
 
 3. 🔘 Click the Predict button to see the result.
 
