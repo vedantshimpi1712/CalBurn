@@ -30,14 +30,21 @@ CalBurn is a simple and dynamic web application that predicts the number of calo
 
 
     📂 Project Files
+   
     -app.py: Main Streamlit app file.
+   
     -model.pkl: Pre-trained machine learning model for prediction.
+   
     -x_train.csv: Training data used for building the model.
     
     🖥️ Technologies Used
+   
       -Streamlit: For building the web interface.
+   
       -Python: Backend development and machine learning.
+   
       -NumPy & Pandas: For data manipulation and handling.
+   
       -Pickle: For model serialization.
 
 📸 Screenshots
